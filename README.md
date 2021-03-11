@@ -9,6 +9,6 @@ chmod +x docker-run.sh # Give the script execution permissions
 
 The script will pull down the latest teaspeak3 docker image from Docker Hub.
 
-Once up and running, make a note of the ServerAdmin privilege key/token as you will it during first login.
+Once up and running, make a note of the ServerAdmin privilege key/token as you will need it during first login.
 
 Use `ctrl+z` to exit the container shell gracefully.
