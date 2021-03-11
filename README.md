@@ -3,7 +3,7 @@
 Before running the below command, make sure that docker is running in your virtual machine.
 
 ```bash
-chmod +x docker-build.sh # Give the script execution permissions
+chmod +x docker-run.sh # Give the script execution permissions
 ./docker-run.sh
 ```
 
